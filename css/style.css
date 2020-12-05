@@ -1,0 +1,70 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    /*background-image: url(Bg.jpg);
+  background-size: cover;*/
+    background: linear-gradient(-150deg, #476AD1, #05206F);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.jambotron {
+    background-image: url(https://mdbootstrap.com/img/Photos/Others/gradient1.jpg);
+    background-size: cover;
+}
+
+.display-4,
+.lead {
+    color: #191F58;
+}
+
+.navslika {
+    margin-left: 20px;
+}
+
+
+/*div {
+	margin: 10px;
+}*/
+
+.pointer {
+    font-family: fantasy;
+    font-size: 2em;
+}
+
+.navlink {
+    color: white;
+    font-family: "Open Sans";
+    font-size: 17px;
+    margin-left: 15px;
+}
+
+.card {
+    transition: 1s;
+    margin: 5px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+label {
+    color: white;
+}
+
+.navbar {
+    background: #006EB7;
+}
+
+.pravi {
+    color: white;
+}
+
+.bar {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.dtraz {
+    border-radius: 0px 10px 10px 0px;
+}
