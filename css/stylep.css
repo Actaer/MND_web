@@ -63,6 +63,7 @@ body {
 }
 
 footer {
+    border-top: 1px solid white;
     margin-top: auto;
     background-color: #010435;
     display: flex;
@@ -169,4 +170,15 @@ footer {
 
 .card-text {
     color: black;
+}
+
+.on-screen {
+    padding: 20px;
+    align-self: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 700px;
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid white;
 }

@@ -461,4 +461,27 @@ body {
     background: linear-gradient(-150deg, #476AD1, #05206F);
 }
 
-sourceMappingURL=stylesign.css.map
+#pomocni {
+    display: flex;
+    flex-direction: row;
+}
+
+#drzavni {
+    max-width: 80px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+#number {
+    border-radius: 0px 5px 5px 0px;
+}
+
+#preporuka {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.uslovi {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    margin: 20px;
+}
