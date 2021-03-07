@@ -1,0 +1,19 @@
+{
+    "name": "mnd_web",
+    "version": "1.0.0",
+    "description": "Ovo je platforma koja je namenjena majstorima iz svih oblasti i zanimanja. Mehaničari, električari, stolari, bravari... Svima treba platforma koja im omogućuje lak i brz pristup klijenteli i tržištu.",
+    "main": "js/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Actaer/MND_web.git"
+    },
+    "author": "Adnan Crnovršanin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Actaer/MND_web/issues"
+    },
+    "homepage": "https://github.com/Actaer/MND_web#readme"
+}
